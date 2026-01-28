@@ -39,7 +39,7 @@ export default async function RootLayout({
   const dict = await getDictionary(lang);
 
   return (
-    <html lang={lang} className="scroll-smooth">
+    <html lang={lang} className="scroll-smooth" suppressHydrationWarning>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-black text-white`}
       >

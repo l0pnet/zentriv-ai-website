@@ -7,7 +7,7 @@ export default function Footer({ dict, lang }: { dict: any, lang: string }) {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-sm text-gray-400">
                     <div>
                         <h3 className="text-white font-semibold mb-4">Zentriv AI, LLC</h3>
-                        <p>123 Innovation Dr.<br />San Francisco, CA 94105<br />USA</p>
+                        <p>30 N Gould St Ste R<br />Sheridan, WY 82801<br />USA</p>
                         <p className="mt-2">support@zentriv.co</p>
                     </div>
 
