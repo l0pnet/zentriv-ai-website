@@ -1,0 +1,66 @@
+{
+    "nav": {
+        "products": "Products",
+        "solutions": "Solutions",
+        "pricing": "Pricing",
+        "login": "Login"
+    },
+    "hero": {
+        "headline": "Empowering the Future with Intelligent AI Solutions",
+        "sub_headline": "Zentriv AI delivers custom machine learning models, enterprise SaaS platforms, and next-gen generative AI applications.",
+        "cta": "View Solutions"
+    },
+    "pricing": {
+        "title": "Pricing Plans",
+        "starter": "Starter",
+        "pro": "Pro (SaaS)",
+        "enterprise": "Enterprise",
+        "starter_price": "Free",
+        "pro_price": "$299 / month",
+        "enterprise_price": "Custom",
+        "recurring": "Billed monthly"
+    },
+    "footer": {
+        "copyright": "© 2026 Zentriv AI, LLC. All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "refund": "Refund Policy"
+    },
+    "legal": {
+        "refund": {
+            "title": "Refund Policy",
+            "intro": "At Zentriv AI, we strive to ensure satisfaction with our services and products.",
+            "saas_title": "SaaS Subscriptions",
+            "saas_content": "Subscriptions can be canceled at any time. Refunds for SaaS products are processed within 7 days of complaint if the service was not as described or encountered technical failures.",
+            "custom_title": "Custom Development Services",
+            "custom_content": "Custom development services are subject to the specific contract terms agreed upon at the start of the project. Milestones and deliverables are non-refundable once accepted.",
+            "contact_title": "Contact Us",
+            "contact_content": "If you have any questions about our Refunds Policy, please contact us at support@zentriv.co."
+        },
+        "privacy": {
+            "title": "Privacy Policy",
+            "last_updated": "Last updated: January 2026",
+            "intro": "Zentriv AI (\"we\", \"our\", or \"us\") respects your privacy and is committed to protecting your personal data. This Privacy Policy will inform you as to how we look after your personal data when you visit our website or use our applications and tell you about your privacy rights.",
+            "section1_title": "1. Information We Collect",
+            "section1_content": "We may collect, use, store and transfer different kinds of personal data about you including Identity Data, Contact Data, Technical Data (IP address, browser type), and Usage Data.",
+            "section2_title": "2. How We Use Your Data",
+            "section2_content": "We use your personal data to provide and manage our services, including processing payments, authenticating users, and improving our AI models (where explicitly consented).",
+            "section3_title": "3. Data Security",
+            "section3_content": "We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way.",
+            "contact_info": "For more details, contact us at support@zentriv.co."
+        },
+        "terms": {
+            "title": "Terms of Service",
+            "last_updated": "Last updated: January 2026",
+            "intro": "Please read these Terms of Service (\"Terms\") carefully before using the zentriv.co website and services operated by Zentriv AI, LLC.",
+            "section1_title": "1. Acceptance of Terms",
+            "section1_content": "By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.",
+            "section2_title": "2. Subscriptions",
+            "section2_content": "Some parts of the Service are billed on a subscription basis (\"Subscription(s)\"). You will be billed in advance on a recurring and periodic basis (such as monthly or annually).",
+            "section3_title": "3. Accounts",
+            "section3_content": "When you create an account with us, you must provide us information that is accurate, complete, and current at all times.",
+            "section4_title": "4. Intellectual Property",
+            "section4_content": "The Service and its original content, features and functionality are and will remain the exclusive property of Zentriv AI, LLC and its licensors."
+        }
+    }
+}

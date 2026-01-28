@@ -1,0 +1,66 @@
+{
+    "nav": {
+        "products": "제품",
+        "solutions": "솔루션",
+        "pricing": "가격",
+        "login": "로그인"
+    },
+    "hero": {
+        "headline": "지능형 AI 솔루션으로 미래를 강화하다",
+        "sub_headline": "Zentriv AI는 맞춤형 머신 러닝 모델, 기업용 SaaS 플랫폼 및 차세대 생성형 AI 애플리케이션을 제공합니다.",
+        "cta": "솔루션 보기"
+    },
+    "pricing": {
+        "title": "요금제",
+        "starter": "스타터",
+        "pro": "프로 (SaaS)",
+        "enterprise": "엔터프라이즈",
+        "starter_price": "무료",
+        "pro_price": "$299 / 월",
+        "enterprise_price": "문의",
+        "recurring": "매월 청구"
+    },
+    "footer": {
+        "copyright": "© 2026 Zentriv AI, LLC. All rights reserved.",
+        "privacy": "개인정보 처리방침",
+        "terms": "이용약관",
+        "refund": "환불 정책"
+    },
+    "legal": {
+        "refund": {
+            "title": "환불 정책",
+            "intro": "Zentriv AI는 고객이 서비스와 제품에 만족할 수 있도록 최선을 다하고 있습니다。",
+            "saas_title": "SaaS 구독",
+            "saas_content": "구독은 언제든지 취소할 수 있습니다. SaaS 제품에 대한 환불은 서비스가 설명과 다르거나 기술적인 오류가 발생한 경우 불만 제기 후 7일 이내에 처리됩니다.",
+            "custom_title": "맞춤형 개발 서비스",
+            "custom_content": "맞춤형 개발 서비스는 프로젝트 시작 시 합의된 특정 계약 조건의 적용을 받습니다. 마일스톤 및 결과물은 승인 후 환불되지 않습니다.",
+            "contact_title": "문의하기",
+            "contact_content": "환불 정책에 대해 궁금한 점이 있으시면 support@zentriv.co로 문의해 주십시오."
+        },
+        "privacy": {
+            "title": "개인정보 처리방침",
+            "last_updated": "최종 업데이트: 2026년 1월",
+            "intro": "Zentriv AI(\"당사\", \"당사의\" 또는 \"우리\")는 귀하의 개인정보를 존중하며 개인 데이터를 보호하기 위해 최선을 다하고 있습니다. 본 개인정보 처리방침은 귀하가 당사 웹사이트를 방문하거나 애플리케이션을 사용할 때 당사가 귀하의 개인 데이터를 처리하는 방법과 귀하의 개인정보 보호 권리에 대해 알려드립니다.",
+            "section1_title": "1. 수집하는 정보",
+            "section1_content": "당사는 신원 데이터, 연락처 데이터, 기술 데이터(IP 주소, 브라우저 유형) 및 사용 데이터를 포함하여 귀하에 대한 다양한 종류의 개인 데이터를 수집, 사용, 저장 및 전송할 수 있습니다.",
+            "section2_title": "2. 데이터 사용 방법",
+            "section2_content": "당사는 결제 처리, 사용자 인증 및 AI 모델 개선(명시적으로 동의한 경우)을 포함하여 서비스를 제공하고 관리하기 위해 귀하의 개인 데이터를 사용합니다.",
+            "section3_title": "3. 데이터 보안",
+            "section3_content": "당사는 귀하의 개인 데이터가 실수로 분실, 사용되거나 무단으로 액세스되는 것을 방지하기 위해 적절한 보안 조치를 취하고 있습니다.",
+            "contact_info": "자세한 내용은 support@zentriv.co로 문의하십시오."
+        },
+        "terms": {
+            "title": "이용약관",
+            "last_updated": "최종 업데이트: 2026년 1월",
+            "intro": "Zentriv AI, LLC가 운영하는 zentriv.co 웹사이트 및 서비스를 이용하기 전에 본 이용약관(\"약관\")을 주의 깊게 읽어주십시오.",
+            "section1_title": "1. 약관의 승낙",
+            "section1_content": "서비스에 액세스하거나 서비스를 이용함으로써 귀하는 본 약관에 구속되는 데 동의하는 것입니다. 약관의 일부에 동의하지 않는 경우 서비스에 액세스할 수 없습니다.",
+            "section2_title": "2. 구독",
+            "section2_content": "서비스의 일부는 구독 방식(\"구독\")으로 청구됩니다. 귀하는 정기적이고 주기적인 방식(예: 월간 또는 연간)으로 사전에 청구됩니다.",
+            "section3_title": "3. 계정",
+            "section3_content": "당사에 계정을 만들 때 귀하는 정확하고 완전하며 항상 최신의 정보를 제공해야 합니다.",
+            "section4_title": "4. 지적 재산권",
+            "section4_content": "서비스 및 그 원본 콘텐츠, 기능 및 기능은 Zentriv AI, LLC 및 해당 라이선스 제공자의 독점 자산이며 앞으로도 계속 유지됩니다."
+        }
+    }
+}

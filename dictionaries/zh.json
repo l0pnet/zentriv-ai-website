@@ -1,0 +1,66 @@
+{
+    "nav": {
+        "products": "产品",
+        "solutions": "解决方案",
+        "pricing": "定价",
+        "login": "登录"
+    },
+    "hero": {
+        "headline": "以智能 AI 解决方案赋能未来",
+        "sub_headline": "Zentriv AI 提供定制化机器学习模型、企业 SaaS 平台及下一代生成式 AI 应用。",
+        "cta": "查看解决方案"
+    },
+    "pricing": {
+        "title": "定价方案",
+        "starter": "入门版",
+        "pro": "专业版 (SaaS)",
+        "enterprise": "企业版",
+        "starter_price": "免费",
+        "pro_price": "$299 / 月",
+        "enterprise_price": "定制",
+        "recurring": "按月计费"
+    },
+    "footer": {
+        "copyright": "© 2026 Zentriv AI, LLC. 版权所有。",
+        "privacy": "隐私政策",
+        "terms": "服务条款",
+        "refund": "退款政策"
+    },
+    "legal": {
+        "refund": {
+            "title": "退款政策",
+            "intro": "在 Zentriv AI，我们致力于确保您对我们的服务和产品感到满意。",
+            "saas_title": "SaaS 订阅",
+            "saas_content": "订阅可以随时取消。如果服务未如描述所示或遇到技术故障，SaaS 产品的退款将在投诉后 7 天内处理。",
+            "custom_title": "定制开发服务",
+            "custom_content": "定制开发服务受项目开始时商定的具体合同条款约束。里程碑和交付成果一旦验收，概不退款。",
+            "contact_title": "联系我们要",
+            "contact_content": "如果您对我们的退款政策有任何疑问，请联系我们：support@zentriv.co。"
+        },
+        "privacy": {
+            "title": "隐私政策",
+            "last_updated": "最后更新：2026年1月",
+            "intro": "Zentriv AI（“我们”）尊重您的隐私，并致力于保护您的个人数据。本隐私政策将告知您当我们访问我们的网站或使用我们的应用程序时，我们如何处理您的个人数据，并告知您有关您的隐私权。",
+            "section1_title": "1. 我们收集的信息",
+            "section1_content": "即使我们可能收集、使用、存储和传输有关您的各种个人数据，包括身份数据、联系数据、技术数据（IP 地址、浏览器类型）和使用数据。",
+            "section2_title": "2. 我们如何使用您的数据",
+            "section2_content": "我们使用您的个人数据来提供和管理我们的服务，包括处理付款、验证用户身份以及改进我们的 AI 模型（在明确同意的情况下）。",
+            "section3_title": "3. 数据安全",
+            "section3_content": "我们已采取适当的安全措施，以防止您的个人数据意外丢失、使用或以未经授权的方式访问。",
+            "contact_info": "欲了解更多详情，请联系我们：support@zentriv.co。"
+        },
+        "terms": {
+            "title": "服务条款",
+            "last_updated": "最后更新：2026年1月",
+            "intro": "在使用 Zentriv AI, LLC 运营的 zentriv.co 网站和服务之前，请仔细阅读这些服务条款（“条款”）。",
+            "section1_title": "1. 接受条款",
+            "section1_content": "访问或使用本服务即表示您同意受这些条款的约束。如果您不同意条款的任何部分，则不得访问本服务。",
+            "section2_title": "2. 订阅",
+            "section2_content": "服务的某些部分按订阅收费（“订阅”）。我们将按经常性和定期（例如每月或每年）提前向您收费。",
+            "section3_title": "3. 账户",
+            "section3_content": "当您在我们这里创建账户时，您必须向我们提供准确、完整且随时处于最新状态的信息。",
+            "section4_title": "4. 知识产权",
+            "section4_content": "本服务及其原始内容、功能和特性是并将继续是 Zentriv AI, LLC 及其许可方的专有财产。"
+        }
+    }
+}
